@@ -30,7 +30,6 @@ Built a voice-enabled AI chatbot (Gemini + OpenAI APIs, FAISS retrieval) and a v
 | Project | Highlights |
 |---|---|
 | [English-to-Tamil Summarization & Translation](https://github.com/Guhanbala/News-Article-Summarization-and-translation-) | BART + IndicTrans2 pipeline · ROUGE-1: 0.538, outperforming PEGASUS |
-| [Hybrid YOLOv8/YOLOv10 for PCB Detection](https://github.com/Guhanbala) | 0.887 mAP@0.5 across 22 classes · up to 55% fewer parameters |
 | [Multimodal Voice Pathology Classification](https://github.com/Guhanbala/Multimodal-Voice-Pathology-Classification-of-Vocal-Overuse-Related-Disorders-Using-Fused-Handcrafted) | Hierarchical multimodal framework · 82.93% detection accuracy |
 | [Hospital Microgrid Energy Management](https://github.com/Guhanbala/LB-MPC-and-EMS-for-Multi_Level_Incident-in-Hospitals) | MPC vs Fuzzy-PID control · 50.8% cost reduction |
 | [CVD Diagnosis & Correction App](https://github.com/Guhanbala/CVD-detection-and-correction) | Flutter app using CNNs & GANs for real-time color vision correction |
