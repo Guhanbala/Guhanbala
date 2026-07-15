@@ -14,11 +14,8 @@ Final-year AI &amp; Data Science student building RAG systems, ML pipelines &amp
 ### About Me
 
 - 🎓 Final-year **B.Tech, Artificial Intelligence & Data Science** @ Amrita School of Engineering, Coimbatore
-- 🔭 Currently building **RAG pipelines, LLM-integrated apps, and computer vision systems**
 - 🧠 Interests: Machine Learning · Deep Learning · NLP · Computer Vision · LLMs · Retrieval-Augmented Generation
 - 📝 Published researcher — **4 peer-reviewed IEEE/AIP papers**, including a **Best Paper Award**
-- 💼 2 industry internships building production AI features for real clients
-- ⚡ Fun fact: I've turned research papers into working code more times than I can count
 
 ---
 
@@ -26,10 +23,6 @@ Final-year AI &amp; Data Science student building RAG systems, ML pipelines &amp
 
 **Software Developer (AI/ML) — The Home Ideas** · Oct 2025 – Apr 2026
 Built a voice-enabled AI chatbot (Gemini + OpenAI APIs, FAISS retrieval) and a virtual interior design platform using SegFormer & SAM 3 for automated segmentation.
-
-**Product Developer — Hanuven Healthcare** · Jul 2024 – Mar 2025
-Built an LLM-powered RAG chatbot to improve customer query resolution using context-aware, company-data-grounded responses.
-
 ---
 
 ### Featured Projects
