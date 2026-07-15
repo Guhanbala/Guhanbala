@@ -1,62 +1,140 @@
-<h1 align="center">Hi, I'm Guhan K B 👋</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Guhan%20K%20B&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Building%20RAG%20Systems%20%26%20Intelligent%20Apps&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="mailto:guhankb575@gmail.com"><img src="https://img.shields.io/badge/Email-guhankb575%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/guhan-balachandran/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Guhanbala"><img src="https://img.shields.io/badge/GitHub-Guhanbala-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+
+<br/>
+
+<a href="https://github.com/Guhanbala">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=764ABA&center=true&vCenter=true&width=600&lines=Final-year+AI+%26+Data+Science+Student;Building+RAG+Pipelines+%26+LLM-Powered+Apps;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Published+Researcher+%7C+4+IEEE%2FAIP+Papers" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+```yaml
+name: Guhan K B
+role: AI/ML Engineer & Software Developer
+education: B.Tech, Artificial Intelligence & Data Science @ Amrita School of Engineering
+currently_building: RAG pipelines, LLM-integrated apps, computer vision systems
+research: 4 peer-reviewed IEEE/AIP papers (including a Best Paper Award 🏆)
+internships: 2 — shipped production AI features for real clients
+looking_for: Software Engineering & AI/ML roles
+```
+
+<br/>
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 The Home Ideas
+**Software Developer (AI/ML)** · Oct 2025 – Apr 2026
+
+- Voice-enabled AI chatbot (Gemini + OpenAI APIs)
+- FAISS-powered RAG retrieval + web scraping
+- Virtual interior design platform using SegFormer & SAM 3
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 Hanuven Healthcare
+**Product Developer** · Jul 2024 – Mar 2025
+
+- LLM-powered RAG chatbot
+- Context-aware, company-data-grounded responses
+- Improved customer query resolution
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <p align="center">
-Final-year AI &amp; Data Science student building RAG systems, ML pipelines &amp; AI-powered apps
+<img src="https://skillicons.dev/icons?i=python,c,mysql,html,css,pytorch,opencv,flask,fastapi,mongodb,git,arduino,raspberrypi&theme=dark" />
 </p>
 
 <p align="center">
-<a href="mailto:guhankb575@gmail.com"><img src="https://img.shields.io/badge/Email-guhankb575%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/guhan-balachandran/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/-FAISS-4285F4?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
----
+<br/>
 
-### About Me
+## 📌 Featured Projects
 
-- 🎓 Final-year **B.Tech, Artificial Intelligence & Data Science** @ Amrita School of Engineering, Coimbatore
-- 🧠 Interests: Machine Learning · Deep Learning · NLP · Computer Vision · LLMs · Retrieval-Augmented Generation
-- 📝 Published researcher — **4 peer-reviewed IEEE/AIP papers**, including a **Best Paper Award**
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**[🈴 English-to-Tamil Summarization & Translation](https://github.com/Guhanbala/News-Article-Summarization-and-translation-)**
+BART + IndicTrans2 pipeline
+`ROUGE-1: 0.538` — outperformed PEGASUS
 
-### Experience
+</td>
+<td width="50%" valign="top">
 
-**Software Developer (AI/ML) — The Home Ideas** · Oct 2025 – Apr 2026
-Built a voice-enabled AI chatbot (Gemini + OpenAI APIs, FAISS retrieval) and a virtual interior design platform using SegFormer & SAM 3 for automated segmentation.
----
+**🔍 Hybrid YOLOv8/YOLOv10 for PCB Detection**
+22-class component detection
+`0.887 mAP@0.5` · up to 55% fewer parameters
 
-### Featured Projects
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-| Project | Highlights |
-|---|---|
-| [English-to-Tamil Summarization & Translation](https://github.com/Guhanbala/News-Article-Summarization-and-translation-) | BART + IndicTrans2 pipeline · ROUGE-1: 0.538, outperforming PEGASUS |
-| [Multimodal Voice Pathology Classification](https://github.com/Guhanbala/Multimodal-Voice-Pathology-Classification-of-Vocal-Overuse-Related-Disorders-Using-Fused-Handcrafted) | Hierarchical multimodal framework · 82.93% detection accuracy |
-| [Hospital Microgrid Energy Management](https://github.com/Guhanbala/LB-MPC-and-EMS-for-Multi_Level_Incident-in-Hospitals) | MPC vs Fuzzy-PID control · 50.8% cost reduction |
-| [CVD Diagnosis & Correction App](https://github.com/Guhanbala/CVD-detection-and-correction) | Flutter app using CNNs & GANs for real-time color vision correction |
+**[🎙️ Multimodal Voice Pathology Classification](https://github.com/Guhanbala/Multimodal-Voice-Pathology-Classification-of-Vocal-Overuse-Related-Disorders-Using-Fused-Handcrafted)**
+Hierarchical multimodal framework
+`82.93%` detection accuracy
 
----
+</td>
+<td width="50%" valign="top">
 
-### Tech Stack
+**[⚡ Hospital Microgrid Energy Management](https://github.com/Guhanbala/LB-MPC-and-EMS-for-Multi_Level_Incident-in-Hospitals)**
+MPC vs Fuzzy-PID control
+`50.8%` cost reduction
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+</td>
+</tr>
+</table>
 
-**AI/ML & Data:** ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikitlearn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+<br/>
 
-**Backend & Tools:** ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+## 📊 GitHub Stats
 
-**Retrieval & Embedded:** FAISS · Ollama · CUDA · Raspberry Pi · Arduino
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Guhanbala&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guhanbala&layout=compact&theme=radical&hide_border=true" />
+</div>
 
----
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Guhanbala&theme=radical&hide_border=true" />
+</div>
 
-### Research & Publications
+<br/>
 
-- 🏆 **Bio-Inspired Snake Robot for Real-Time Victim Detection in Disaster Environments** — IEEE *(Best Paper Award)*
-- **Two and Four Wheels Differential Racing Bots** — IEEE
-- **Emotion-Aware Image Captioning using Deep Learning** — IEEE
-- **Solar Powered Agricultural Robot for Irrigation** — AIP
+## 🏆 Research & Publications
 
----
+- 🥇 **Bio-Inspired Snake Robot for Real-Time Victim Detection in Disaster Environments** — IEEE *(Best Paper Award)*
+- 📄 **Two and Four Wheels Differential Racing Bots** — IEEE
+- 📄 **Emotion-Aware Image Captioning using Deep Learning** — IEEE
+- 📄 **Solar Powered Agricultural Robot for Irrigation** — AIP
 
-<p align="center">
-<i>Open to Software Engineering & AI/ML roles — always happy to connect and collaborate.</i>
-</p>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
