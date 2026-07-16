@@ -139,22 +139,6 @@ MPC vs Fuzzy-PID hierarchical control
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Guhanbala&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guhanbala&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Guhanbala&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Guhanbala&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
 ## 🏆 Research & Publications
 
