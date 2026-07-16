@@ -21,33 +21,38 @@
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
 
-I am a final-year **AI & Data Science** student dedicated to translating complex academic research into scalable, production-ready solutions. My expertise bridges the gap between **applied Machine Learning and Software Engineering**, with a strong focus on architecting RAG systems, computer vision pipelines, and deploying robust LLM-integrated products.
+<td width="65%" valign="top">
 
-- 🔭 Currently architecting **RAG pipelines & LLM-powered applications**
-- 🌱 Advancing expertise in **system design & production-grade ML**
-- 🏆 Best Paper Award — IEEE (Bio-Inspired Snake Robot for Disaster Response)
-- 📫 Connect with me at **guhankb575@gmail.com**
+I am a final-year **B.Tech Artificial Intelligence & Data Science** student at the **Amrita School of Artificial Intelligence**, passionate about building intelligent software that bridges research and real-world applications.
 
-</td>
-<td width="40%" valign="top" align="center">
+I enjoy developing scalable AI solutions, exploring modern machine learning techniques, and creating production-ready software with a strong emphasis on clean architecture and practical impact.
 
-<pre><code>┌──────────────────────────┐
-│  guhan --status          │
-│                          │
-│  role     AI/ML Engineer │
-│  papers   4 (IEEE/AIP)   │
-│  interns  2 completed    │
-│  focus    RAG · CV · NLP │
-│  open_to  SDE & AI roles │
-└──────────────────────────┘</code></pre>
+- 🎓 Final-Year B.Tech — **Amrita School of Artificial Intelligence**
+- 📄 Author of **4 Published Research Papers** (IEEE & AIP)
+- 🏆 **IEEE Best Paper Award** Recipient
+- 💼 Open to **Software Engineering, AI/ML & GenAI** Opportunities
+- 📫 **guhankb575@gmail.com**
 
 </td>
+
+<td width="35%" valign="top">
+
+### 🌟 Interests
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 💬 Large Language Models
+- 👁️ Computer Vision
+- 📊 Data Science
+- ⚡ Software Development
+- ☁️ Cloud Computing
+- 🔬 AI Research
+
+</td>
+
 </tr>
 </table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
 ## 💼 Experience
 
