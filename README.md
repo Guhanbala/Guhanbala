@@ -23,18 +23,17 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm a final-year **AI & Data Science** student who likes turning research papers into things that actually run. My work sits at the intersection of **applied ML and software engineering** — RAG systems, computer vision pipelines, and LLM-integrated products that ship, not just notebooks that demo.
+I am a final-year **AI & Data Science** student dedicated to translating complex academic research into scalable, production-ready solutions. My expertise bridges the gap between **applied Machine Learning and Software Engineering**, with a strong focus on architecting RAG systems, computer vision pipelines, and deploying robust LLM-integrated products.
 
-- 🔭 Currently building **RAG pipelines & LLM-powered applications**
-- 🌱 Deepening my grip on **system design & production ML**
+- 🔭 Currently architecting **RAG pipelines & LLM-powered applications**
+- 🌱 Advancing expertise in **system design & production-grade ML**
 - 🏆 Best Paper Award — IEEE (Bio-Inspired Snake Robot for Disaster Response)
-- 📫 Reach me at **guhankb575@gmail.com**
+- 📫 Connect with me at **guhankb575@gmail.com**
 
 </td>
 <td width="40%" valign="top" align="center">
 
-```
-┌──────────────────────────┐
+<pre><code>┌──────────────────────────┐
 │  guhan --status          │
 │                          │
 │  role     AI/ML Engineer │
@@ -42,8 +41,7 @@ I'm a final-year **AI & Data Science** student who likes turning research papers
 │  interns  2 completed    │
 │  focus    RAG · CV · NLP │
 │  open_to  SDE & AI roles │
-└──────────────────────────┘
-```
+└──────────────────────────┘</code></pre>
 
 </td>
 </tr>
